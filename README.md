@@ -1,2 +1,3 @@
 # 00fire.github.io
-[verkefni 1](/grid/grid.html)
+[verkefni 3](/grid/grid.html)
+

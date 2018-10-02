@@ -1,0 +1,72 @@
+.kox{ 
+    border:5px 
+    solid green}
+
+
+
+    .left{
+        padding-left: 30px
+    
+    }
+.leftz{
+border: 1px solid red;
+}
+
+
+.rtl{
+margin: 10px;
+border:10px solid green;
+padding: 30px 
+}
+
+.otr{
+border: 2px dashed blue;
+padding: 20px
+}
+
+.lkec{padding: 3em;
+margin: 3em;
+border: 3px dashed green}
+.rts{display: inline;
+    padding: 3em;
+margin: 3em;
+border:3px dashed blue }
+.jft{
+    display: inline-block;
+    padding: 3em;
+    margin: 3em;
+    border:3px dashed red
+}
+
+.brb{ 
+ float: left;
+border: 1px solid black;
+padding: 5px;
+width: 33.33%;     
+}
+
+.brb2Xo{ float: left;
+    width:50%;
+    border: 1px solid black;
+    padding: 5px;
+    }
+*{
+    box-sizing: border-box;}
+  .group:before,
+  .group:after {
+    content: "";
+    display: table;
+  }
+  
+  .group:after {
+    clear: both
+  }
+  .group {
+    clear: both;
+    *zoom: 1;
+  }
+  .nsf{
+      justify-content: center;
+    align-items: center;}
+  
+

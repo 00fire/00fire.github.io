@@ -4,3 +4,5 @@
 [verkefni 3](/grid/grid.html)
 [verkefni 4/5 part1](/verkefni-5-nemendur/index.html)
 [verkefni 4/5 part2](/verkefni-5-nemendur/verkefni53.html)
+[verkefni 6](/yeets/scobdedo.html)
+

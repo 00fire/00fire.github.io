@@ -1,0 +1,43 @@
+.pila{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    background: blue;
+    height: 70px;
+    width: 70px;
+
+    border-radius: 50%;
+
+    font-size:3em;
+    text-align: center;
+}
+.gg{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 960px;
+    margin: 0 auto;}
+body{background-color: blue;}
+.kl{background: linear-gradient(goldenrod,crimson)}
+.tr{text-align: center}
+.yh{background: linear-gradient(crimson, blueviolet)}
+.uh{background: linear-gradient(blueviolet,blue)}
+.iy{position: fixed;
+text-align: left;
+margin: 1em;
+}
+.gl{text-align: left;
+margin: 1em}
+.gn{ display: grid;
+    margin: auto;  
+    grid-template-columns:1fr 1fr 1fr;
+    width: 960px;
+    margin: 0 auto;
+}
+.roob{display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+background-color:black;}
+    

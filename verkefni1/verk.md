@@ -11,4 +11,5 @@ Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log shows you all the changes to your git and the commit and who did it     
 git checkout tells you how many commit you have done and my master is a head of my branch by 3 commit 
 git branch gitd show who curruntly are working on the git from what it looks like from tiping the code
-Hvað er útgáfustýring (Version Control)?
+Hvað er útgáfustýring (Version Control)? version control records all your progres and from the past to now soo you can recall if somthing happens and get it back 
+Hverjir eru helstu kostir við að nota GIT?

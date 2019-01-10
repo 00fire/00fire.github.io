@@ -12,4 +12,5 @@ git log shows you all the changes to your git and the commit and who did it
 git checkout tells you how many commit you have done and my master is a head of my branch by 3 commit 
 git branch gitd show who curruntly are working on the git from what it looks like from tiping the code
 Hvað er útgáfustýring (Version Control)? version control records all your progres and from the past to now soo you can recall if somthing happens and get it back 
-Hverjir eru helstu kostir við að nota GIT?
+Hverjir eru helstu kostir við að nota GIT? you can make direct changes with a simple commmands and is way more ez too make file changes and or to clone over than waiting too uploud
+Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? 

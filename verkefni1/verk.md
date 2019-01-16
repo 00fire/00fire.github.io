@@ -1,3 +1,4 @@
+# erik ni greinn
 Hvað gera eftirfarandi Linux skipanir?
 cd - changes diractory
 ls - shows list and files in the curent diractory

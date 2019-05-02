@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: About
+- name: About Money!
   link: /about.html
-- name: Blog
+- name: Top 3 Richest People
   link: /blog.html
+- name: Presidents!
+  link: /staff.html

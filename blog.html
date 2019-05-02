@@ -1,0 +1,57 @@
+---
+layout: default
+title: Blog
+---
+<h1>Top 3 Richest People</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+<body>
+
+    <h2><strong>In this table you can see the richest people of 2019</strong></h2>
+    <p>According to <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.investopedia.com%2Farticles%2Finvesting%2F012715%2F5-richest-people-world.asp%3Ffbclid%3DIwAR3wXwVVd8Thq8nixfeD2SZOm_SfAc1zN3snvhj3bsJg_1UyXR5vl23yFTg&h=AT3kV4CBb-whiUdX99iq4PrXTkFKbFEWLIory9L2ZWK1eWYggGlKuw9Xys1NlQK2MoK8-Wj6imWbFHDWVPKqOjXCcJutieomKj41ylygLF3_6-yNeEUFpuhBvVG1sGQYMhem6g">Investopedia</a></p>
+    
+    <table>
+        <thead>
+          <tr>
+            <th scope="col">Rank</th>
+            <th scope="col">Name</th>
+            <th scope="col">Net Worth</th>
+            <th scope="col">Age</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-label="Rank">1#</td>
+            <td data-label="Name">Jeff Bezos</td>
+            <td data-label="Net Worth">153.1 billion USD</td>
+            <td data-label="Age">55</td>
+          </tr>
+          <tr>
+            <td scope="row" data-label="Rank">2#</td>
+            <td data-label="Name">Bill Gates</td>
+            <td data-label="Net Worth">100.1 billion USD</td>
+            <td data-label="Age">63</td>
+          </tr>
+          <tr>
+            <td scope="row" data-label="Rank">3#</td>
+            <td data-label="Name">Warren Buffett</td>
+            <td data-label="Net Worth">86.8 billion USD</td>
+            <td data-label="Age">88</td>
+          </tr>
+          <tr>
+            <td scope="row" data-label="Rank">4#</td>
+            <td data-label="Name">Bernard Arnault</td>
+            <td data-label="Net worth">72 billion USD</td>
+            <td data-label="Age">70</td>
+          </tr>
+        </tbody>
+      </table>
+    
+    </body>

@@ -1,0 +1,7 @@
+---
+layout: post
+author: Magnus
+---
+Warren Edward Buffett (/ˈbʌfɪt/; born August 30, 1930)[2] is an American business magnate, investor, speaker and philanthropist who serves as the chairman and CEO of Berkshire Hathaway. He is considered one of the most successful investors in the world[3][4] and has a net worth of US$82.5 billion as of March 9, 2019, making him the third-wealthiest person in the world.[5]
+
+    Buffett was born in Omaha, Nebraska. He developed an interest in business and investing in his youth, eventually entering the Wharton School of the University of Pennsylvania in 1947 before transferring and graduating from University of Nebraska at the age of 19. He went on to graduate from Columbia Business School, where he molded his investment philosophy around the concept of value investing that was pioneered by Benjamin Graham. He attended New York Institute of Finance to focus his economics background and soon after began various business partnerships, including one with Graham. He created Buffett Partnership, Ltd in 1956 and his firm eventually acquired a textile manufacturing firm called Berkshire Hathaway and assumed its name to create a diversified holding company. In 1978, Charlie Munger joined Buffett and became vice president of the company.[6][7]
